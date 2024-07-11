@@ -57,7 +57,7 @@ $ sudo apt install -y nodejs
 ```
 ### setup cdk project in python
 
-```bash
+```python
  python3 -m venv env
 cdk init app --language python
 source .venv/bin/activate
